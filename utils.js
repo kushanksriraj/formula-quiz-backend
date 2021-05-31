@@ -8,3 +8,8 @@ const catchError = async (next, callback) => {
 }
 
 module.exports = { catchError };
+
+
+/**
+ * Express Middleware
+ */
